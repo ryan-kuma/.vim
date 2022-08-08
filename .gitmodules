@@ -1,0 +1,6 @@
+[submodule "plugin/tpope/start/vim-surround"]
+	path = plugin/tpope/start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:tomasr/molokai.git
